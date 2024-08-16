@@ -1,0 +1,28 @@
+
+:root{
+  --primary-color: #1264c2fb;
+  font-family: Calibri; 
+}
+h3{
+    
+    font-size: 25pt;         
+    font-style: normal; 
+    font-weight: bold; 
+    color: var(--primary-color);
+    text-align: center; 
+    text-decoration: underline
+  }
+  
+  table{ 
+    color:white; 
+    font-size: 11pt; 
+    font-style: normal;
+    font-weight: bold;
+    text-align:left; 
+    background-color: var(--primary-color); 
+    border-collapse: collapse; 
+    border: 2px solid navy
+  }
+  table.inner{
+    border: 0px
+  }
